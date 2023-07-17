@@ -15,7 +15,7 @@ if height>=120:
         bill = 12
         print("Adult tickets are 12$")
 
-    want_photo=input("Do you want a photo ? Y or N:\n ")
+    want_photo=input("Do you want a photo ? Y or N:  ")
     if want_photo == "Y":
         #add 3$ to the bill
         bill = bill + 3
