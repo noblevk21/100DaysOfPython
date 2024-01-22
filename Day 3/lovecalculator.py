@@ -1,6 +1,5 @@
 print("The love calculator is calculating your score:")
 
-
 name1 = input("Enter name1: ")
 name2 = input("Enter name2: ")
 
