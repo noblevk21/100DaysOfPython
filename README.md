@@ -1,7 +1,7 @@
 # Python
 # 100DaysOfPython 
 
-Course: [Dr. Angela Yu's Udemy Course](https://www.udemy.com/course/100-days-of-code/)
+Course: [Dr. Angela Yu's Udemy Course](https://www.udemy.com/share/103IHM3@xmmac76A-LfQ6XkjO_u26xWPmzUD6Bhb2cJ5oPpxx2yw59R_ttdjjEOanKTIYJHRNA==/)
 
 ## Tools Used:
 
