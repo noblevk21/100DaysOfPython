@@ -3,9 +3,13 @@ states_of_america = ["Delaware", "Pennsylvania", "New Jersey", "Georgia", "Conne
 #Adding Pandora to the states of America
 states_of_america.append("Pandora")
 
+#extending with another list
+print("\n After Appending:\n")
+print(states_of_america)
+
 dirty_dozen = ["Strawberries", "Spinach", "Kale", "Nectarines", "Apples", "Grapes", "Peaches", "Cherries", "Pears", "Tomatoes", "Celery", "Potatoes"]
 
-#entending with another list
+#extending with another list
 print("\n After extending:\n")
 states_of_america.extend(dirty_dozen)
 
