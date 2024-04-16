@@ -7,3 +7,5 @@ Course: [Dr. Angela Yu's Udemy Course](https://www.udemy.com/share/103IHM3@xmmac
 
 1. Visual Studio Code
 2. Extensions: Python - Intellisense
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=noblevk21)
